@@ -47,6 +47,7 @@ java-api-automation/
 ├── pom.xml
 ├── testng.xml
 └── README.md
+
 🔍 Automated Validations
 
 The framework validates:
